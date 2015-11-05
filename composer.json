@@ -22,5 +22,9 @@
         "psr-0": {
             "Xavrsl\\Cas": "src/"
         }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "minimum-stability":"dev"
     }
 }
